@@ -458,4 +458,3 @@ if selected=='Quearies':  #Queary
         t1=mycursor.fetchall()
         df=pd.DataFrame(t1,columns=["Channel Name","Video Name","Total comments"])
         st.write(df)
-
