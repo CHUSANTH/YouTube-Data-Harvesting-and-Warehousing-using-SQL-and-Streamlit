@@ -1,0 +1,7 @@
+pip install google-api-python-client
+pip install pymysql
+pip install datatime
+pip install pandas
+pip install isodate
+pip install streamlit
+pip install streamlit-option-menu
